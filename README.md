@@ -5,7 +5,9 @@ Recommendator is a simple quiz application that provides recommendations to a us
 ### Description
 
 Much like a quiz-type application, it collects user's response and gives a suggestion based on the majority of the responses. The app helps the user plans out what type of activity
-can be done over the weekend. The application's design lets the moderator add multiple questions to precisely recommend what the user really wants.
+can be done over the weekend. 
+
+:wqThe application's design lets the moderator add multiple questions to precisely recommend what the user really wants.
 
 ### Screenshots
 
